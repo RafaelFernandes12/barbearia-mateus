@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;500&family=Khula:wght@400;600;700&display=swap');
+.melhor-barbearia{
+    color: white;
+    text-align: center;
+}
+.texto-melhor-barbearia{
+    color: white;
+    font-family: 'Khula', sans-serif;
+    text-align: center;
+    max-width: 300px;
+}
+.container-corte{
+    background-image: url(/assets/plano\ de\ fundo\ barbearia\ do\ nordeste.png);
+    width: 100%;
+}
