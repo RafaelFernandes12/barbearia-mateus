@@ -1,7 +1,19 @@
+body{
+    margin: 0 auto;
+}
 a{
     text-decoration: none;
     color: white;
 }
 ol{
     padding: 0;
+}
+p{
+    font-weight:500;
+    font-size: 35px;
+    font-family: 'Khula', sans-serif;
+}
+h1{
+    font-weight: 700;
+    font-size: 60px;
 }
