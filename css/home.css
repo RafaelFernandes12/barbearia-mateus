@@ -69,5 +69,36 @@
     display: inline-block;
     color: white;
 }
-
-
+.lista, .cadastro{
+    color: white;
+}
+.container-contato{
+    margin: 0 auto;
+    background-color: #D9D9D9;
+    min-height: 700px;
+    max-width: 1440px;
+    padding-bottom: 10%;
+}
+.contato{
+    font-family: 'Khula', sans-serif;
+    font-weight: 500;
+    border-bottom: 3px solid var(--border-color);
+    width: 300px;
+    text-align: center;
+    margin-bottom: 5%;
+    margin: 0 auto;
+}
+.conteudo-content{
+    display: flex;
+    margin-top: 10%;
+}
+.conteudo-img{
+    margin-left: 5%;
+}
+.texto-conteudo{
+    margin-left: 50px;
+    word-break: break-all;
+}
+.texto-conteudo a{
+    color: black;
+}

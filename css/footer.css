@@ -1,0 +1,53 @@
+footer{
+    background-color: black;
+    color: white;
+}
+.container-footer{
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.container-logo{
+    margin: 2%;
+}
+.barbearia-texto{
+    font-size: 20px;
+    box-sizing: border-box;
+    width: 111px;
+    text-align: center;
+    line-height: 20px;
+}
+.container-logo .barbearia-span{
+    font-size: 10px;
+    box-sizing: border-box;
+    width: 111px;
+    text-align: center;
+}
+.container-lista-footer{
+    margin-top: 2%;
+}
+.container-lista-footer li{
+    font-size: 25px;
+    margin: 0.5em;
+}
+.container-lista-horario{
+    display: flex;
+    margin-left: 10%;
+    align-items: center;
+}
+.container-lista-horario p{
+    font-size: 20px;
+}
+.container-lista-horario li{
+    list-style: none;
+}
+.container-lista-redes{
+    margin: auto 0;
+    margin-left: 10%;
+    margin-top: 9%;
+}
+.container-lista-redes li{
+    list-style: none;
+    display: inline-block;
+    padding: 1em;
+}

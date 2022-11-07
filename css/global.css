@@ -1,9 +1,12 @@
+:root{
+    --border-color: #8E2830;
+    --background-color: #D9D9D9;
+}
 body{
     margin: 0 auto;
 }
 a{
     text-decoration: none;
-    color: white;
 }
 ol{
     padding: 0;
