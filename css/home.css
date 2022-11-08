@@ -1,104 +1,105 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;500&family=Khula:wght@400;600;700&display=swap');
-.melhor-barbearia{
-    color: white;
-    text-align: center;
-    padding-top: 18%;
+.melhor-barbearia {
+  color: white;
+  text-align: center;
+  padding-top: 18%;
 }
-.texto-melhor-barbearia{
-    padding-top: 5%;
-    color: white;
-    text-align: center;
-    min-width: 300px;
-    max-height: 364px;
+.texto-melhor-barbearia {
+  padding-top: 5%;
+  color: white;
+  text-align: center;
+  min-width: 300px;
+  max-height: 364px;
 }
-.container-corte{
-    margin-top: 10px;
-    background: rgba(0, 0, 0, 1) url(/assets/plano\ de\ fundo\ barbearia\ do\ nordeste.png);
-    background-repeat: no-repeat;
-    opacity: 150%;
-    height: 743px;
+.container-corte {
+  margin-top: 10px;
+  background: rgba(0, 0, 0, 1)
+    url(/assets/plano\ de\ fundo\ barbearia\ do\ nordeste.png);
+  background-repeat: no-repeat;
+  opacity: 150%;
+  height: 743px;
 }
-.container-sobre{
-    margin: 0 auto;
-    background-color: #D9D9D9;
-    min-height: 700px;
-    max-width: 1440px;
+.container-sobre {
+  margin: 0 auto;
+  background-color: #d9d9d9;
+  min-height: 700px;
+  max-width: 1440px;
 }
-.sobre{
-    margin: 0 auto;
-    text-align: center;
-    box-sizing: border-box;
-    width: 300px;
-    border-bottom: 3px solid #8E2830;
-    padding-top: 5%;
+.sobre {
+  margin: 0 auto;
+  text-align: center;
+  box-sizing: border-box;
+  width: 300px;
+  border-bottom: 3px solid #8e2830;
+  padding-top: 5%;
 }
-.texto-sobre{
-    text-align: center;
-    padding-top: 5%;
+.texto-sobre {
+  text-align: center;
+  padding-top: 5%;
 }
-.container-servico{
-    border-top: 120px solid #9D825C;
-    border-bottom: 120px solid #9D825C;
-    width: 100%;
-    background: rgba(0, 0, 0, .5) url(/assets/cadeiras\ de\ fundo.png);
-    background-repeat: no-repeat;
-    background-blend-mode: darken;
-    height: 800px;
+.container-servico {
+  border-top: 120px solid #9d825c;
+  border-bottom: 120px solid #9d825c;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5) url(/assets/cadeiras\ de\ fundo.png);
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+  height: 800px;
 }
-.servico{
-    margin: 0 auto;
-    text-align: center;
-    box-sizing: border-box;
-    width: 300px;
-    border-bottom: 3px solid #8E2830;
-    padding-top: 2%;
-    color:white;
-    box-sizing: border-box;
-    width: 300px;
-    text-align: center;
-    margin: 0 auto;
+.servico {
+  margin: 0 auto;
+  text-align: center;
+  box-sizing: border-box;
+  width: 300px;
+  border-bottom: 3px solid #8e2830;
+  padding-top: 2%;
+  color: white;
+  box-sizing: border-box;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
 }
-.servico-lista{
-    display: flex;
-    align-items: center;
-    padding: 10%;
-
+.servico-lista {
+  display: flex;
+  align-items: center;
+  padding: 10%;
 }
-.lista-item-servico{
-    margin: 0 auto;
-    display: inline-block;
-    color: white;
+.lista-item-servico {
+  margin: 0 auto;
+  display: inline-block;
+  color: white;
 }
-.lista, .cadastro{
-    color: white;
+.lista,
+.cadastro {
+  color: white;
 }
-.container-contato{
-    margin: 0 auto;
-    background-color: #D9D9D9;
-    min-height: 700px;
-    max-width: 1440px;
-    padding-bottom: 10%;
+.container-contato {
+  margin: 0 auto;
+  background-color: #d9d9d9;
+  min-height: 700px;
+  max-width: 1440px;
+  padding-bottom: 10%;
 }
-.contato{
-    font-family: 'Khula', sans-serif;
-    font-weight: 500;
-    border-bottom: 3px solid var(--border-color);
-    width: 300px;
-    text-align: center;
-    margin-bottom: 5%;
-    margin: 0 auto;
+.contato {
+  font-family: 'Khula', sans-serif;
+  font-weight: 500;
+  border-bottom: 3px solid var(--border-color);
+  width: 300px;
+  text-align: center;
+  margin-bottom: 5%;
+  margin: 0 auto;
 }
-.conteudo-content{
-    display: flex;
-    margin-top: 10%;
+.conteudo-content {
+  display: flex;
+  margin-top: 10%;
 }
-.conteudo-img{
-    margin-left: 5%;
+.conteudo-img {
+  margin-left: 5%;
 }
-.texto-conteudo{
-    margin-left: 50px;
-    word-break: break-all;
+.texto-conteudo {
+  margin-left: 50px;
+  word-break: break-all;
 }
-.texto-conteudo a{
-    color: black;
+.texto-conteudo a {
+  color: black;
 }

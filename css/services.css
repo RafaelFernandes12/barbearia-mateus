@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;500&display=swap');
+
+.card {
+  display: flex;
+  flex-direction: column;
+
+  width: 80%;
+
+  margin: 0 auto;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+
+  border: 2px solid #2d2d2d;
+  border-radius: 20px;
+}
+
+.corte {
+  display: flex;
+}
+
+.agendar {
+  background-color: #c6343f;
+  color: #fff;
+
+  border-radius: 58px;
+  border-style: none;
+
+  cursor: pointer;
+
+  font-family: 'Khula';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+}

@@ -1,22 +1,22 @@
-:root{
-    --border-color: #8E2830;
-    --background-color: #D9D9D9;
+:root {
+  --border-color: #8e2830;
+  --background-color: #d9d9d9;
 }
-body{
-    margin: 0 auto;
+body {
+  margin: 0 auto;
 }
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
-ol{
-    padding: 0;
+ol {
+  padding: 0;
 }
-p{
-    font-weight:500;
-    font-size: 35px;
-    font-family: 'Khula', sans-serif;
+p {
+  font-weight: 500;
+  font-size: 35px;
+  font-family: 'Khula', sans-serif;
 }
-h1{
-    font-weight: 700;
-    font-size: 60px;
+h1 {
+  font-weight: 700;
+  font-size: 60px;
 }

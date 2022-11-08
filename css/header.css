@@ -1,61 +1,61 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;500&display=swap');
 
-*{
-    margin: 0;
+
+* {
+  margin: 0;
 }
-header{
-    background-color: black;
+header {
+  background-color: black;
 }
-.container-img{
-    display: flex;
-    justify-content: space-between;
+.container-img {
+  display: flex;
+  justify-content: space-between;
 }
-.perfil-icon{
-    margin-top: 2%;
-    margin-left: 15%;
+.perfil-icon {
+  margin-top: 2%;
+  margin-left: 15%;
 }
-.logo-icon{
-    margin-right: 25%;
+.logo-icon {
+  margin-right: 25%;
 }
-.login-cadastro{
-    display: flex;
-    align-items: center;
-    gap: 15px;
+.login-cadastro {
+  display: flex;
+  align-items: center;
+  gap: 15px;
 }
-.lista{
-    border-right: 2px white solid;
-    padding-right: 5px;
+.lista {
+  border-right: 2px white solid;
+  padding-right: 5px;
 }
-.lista-item-img{
-    display: inline-block;
+.lista-item-img {
+  display: inline-block;
 }
-.borda{
-    border-bottom: 2px solid white; 
-    margin-bottom: 5px;
+.borda {
+  border-bottom: 2px solid white;
+  margin-bottom: 5px;
 }
-.container-cabecalho{
-    display: flex;
-    justify-content: space-around;
+.container-cabecalho {
+  display: flex;
+  justify-content: space-around;
 }
-.lista-item-cabecalho{
-    border-bottom: 2px solid white;
-    color: white;
-    display: inline-block;
-    margin: 10px;
+.lista-item-cabecalho {
+  border-bottom: 2px solid white;
+  color: white;
+  display: inline-block;
+  margin: 10px;
 }
-.cabecalho{
-    width: 100%;
-    display: flex;
-    justify-content: space-evenly;
-    margin: 0px 20%;
+.cabecalho {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0px 20%;
 }
-.lista-botao{
-    background-color: #C6343F;
-    padding: 0 20px;
-    height: 30px;
-    color: white;
-    font-family: 'Fira Sans', sans-serif;
-    font-weight: 400;
-    border-radius: 20px;
-    margin-top: 5px;
+.lista-botao {
+  background-color: #c6343f;
+  padding: 0 20px;
+  height: 30px;
+  color: white;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+  border-radius: 20px;
+  margin-top: 5px;
 }
