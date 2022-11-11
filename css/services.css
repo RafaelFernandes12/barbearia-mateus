@@ -4,7 +4,6 @@
   display: flex;
   flex-direction: column;
 
-  width: 80%;
 
   margin: 0 auto;
   padding: 0.5rem;
@@ -17,7 +16,20 @@
 
 .corte {
   display: flex;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
+.nome-preco{
+  padding-left: 3%;
+}
+
+main{
+  background-color: #d9d9d9;
+  max-width: fit-content;
+  padding: 2%;
+  margin: 0 auto;
+}
+
 
 .agendar {
   background-color: #c6343f;
@@ -27,9 +39,14 @@
   border-style: none;
 
   cursor: pointer;
-
+  margin-left: 128%;
   font-family: 'Khula';
   font-style: normal;
   font-weight: 800;
   font-size: 16px;
+}
+
+.container-servicos{
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
